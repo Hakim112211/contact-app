@@ -1,5 +1,5 @@
 {
-  "name": "contact-app-(hakim)",
+  "name": "contact-app",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -12,6 +12,6 @@
   "dependencies": {
     "chalk": "^4.1.0",
     "validator": "^13.5.2",
-    "yargs": "^17.7.2"
+    "yargs": "^16.2.0"
   }
 }
